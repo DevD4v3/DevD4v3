@@ -19,6 +19,7 @@ I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creat
 - [Seztion.Parser](https://github.com/DevD4v3/seztion-parser) - A class library used to read data from each section of a file (the file extension can be any, e.g. .INI).
 - [AntiLag-Inc](https://github.com/DevD4v3/antilag-inc) - A library for SA-MP (San Andreas Multiplayer) that allows you to create zones where players can be shot directly on their skin.
 - [system-jail-include](https://github.com/DevD4v3/system-jail-include) - A library for SA-MP (San Andreas Multiplayer) that provides an easy-to-use jail system that automatically handles player positions, interiors, and weapons.
+- [P-Scanf](https://github.com/DevD4v3/P-Scanf) - A lightweight C library for safe and dynamic user input.
 
 
 <p align="left"> 
