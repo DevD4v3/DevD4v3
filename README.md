@@ -1,5 +1,5 @@
 ## About Dave
-[![YouTube](https://img.shields.io/badge/-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DaveRoman-mc4nn)
+[![YouTube](https://img.shields.io/badge/-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevD4v3)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-roman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://DevD4v3.github.io)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362294127322464257)
@@ -7,6 +7,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=DevD4v3&color=green&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creating [open source](https://opensource.org/definition-annotated) projects. My interest in programming was sparked by [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer), a multiplayer mod for GTA San Andreas. Since I was 16, I wanted to create my own game mode on this platform, which motivated me to learn Pawn, a lesser-known programming language. I'm grateful to have discovered [SA-MP](https://www.sa-mp.mp), as it allowed me to develop my passion for programming and achieve my goal of becoming a systems engineer.
+
+Currently, I'm embarking on my most ambitious project yet: developing an action roguelike game in Unity alongside my childhood best friend. It's an incredible journey—the idea of building a game from scratch was once just a dream, but there's a first time for everything. This project is the culmination of all my years as an open-source developer, representing countless hours of learning, discipline, focus, and resilience.
 
 ## My open source projects
 - [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
@@ -21,17 +23,6 @@ I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creat
 - [system-jail-include](https://github.com/DevD4v3/system-jail-include) - A library for SA-MP (San Andreas Multiplayer) that provides an easy-to-use jail system that automatically handles player positions, interiors, and weapons.
 - [P-Scanf](https://github.com/DevD4v3/P-Scanf) - A lightweight C library for safe and dynamic user input.
 
-
-<p align="left"> 
-  I like to know the why of things and I learned this from:
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-</p>
-
-Thank you [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
-
-[Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
