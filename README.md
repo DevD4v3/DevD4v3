@@ -23,6 +23,16 @@ Currently, I'm embarking on my most ambitious project yet: developing an action 
 - [system-jail-include](https://github.com/DevD4v3/system-jail-include) - A library for SA-MP (San Andreas Multiplayer) that provides an easy-to-use jail system that automatically handles player positions, interiors, and weapons.
 - [P-Scanf](https://github.com/DevD4v3/P-Scanf) - A lightweight C library for safe and dynamic user input.
 
+<p align="left"> 
+  I like to know the why of things and I learned this from:
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+</p>
+
+Thank you [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
+
+[Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
