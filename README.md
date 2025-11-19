@@ -14,6 +14,7 @@ Currently, I'm embarking on my most ambitious project yet: developing an action 
 - [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
 - [Capture The Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp).
 - [Protect The President](https://github.com/DevD4v3/Protect-The-President) - A game mode for SA-MP (San Andreas Multiplayer) where the President must survive for 15 minutes without being assassinated by terrorists or civilians.
+- [Playtesters.API](https://github.com/DevD4v3/Playtesters.API) - A lightweight and secure REST API that helps indie developers manage playtesters and control access to private builds using unique keys.
 - [DotEnv.Core](https://github.com/DevD4v3/dotenv.core) - A class library for read and parsing .env files.
 - [YeSQL.NET](https://github.com/ose-net/yesql.net) - A class library for loading SQL statements from .sql files instead of writing SQL code in your C# source files.
 - [SimpleResults](https://github.com/DevD4v3/SimpleResults) - A .NET library that provides new error handling using the [Result pattern](https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c) without using exceptions.
