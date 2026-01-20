@@ -6,16 +6,27 @@
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://es.stackoverflow.com/users/105299/mrdave)
 [![Profile views](https://komarev.com/ghpvc/?username=DevD4v3&color=green&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creating [open source](https://opensource.org/definition-annotated) projects. My interest in programming was sparked by [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer), a multiplayer mod for GTA San Andreas. Since I was 16, I wanted to create my own game mode on this platform, which motivated me to learn Pawn, a lesser-known programming language. I'm grateful to have discovered [SA-MP](https://www.sa-mp.mp), as it allowed me to develop my passion for programming and achieve my goal of becoming a systems engineer.
+I’m a software engineer born in Guayaquil, Ecuador. I’m passionate about building [open-source](https://opensource.org/definition-annotated) products and tools, with a strong focus on quality, clean design, and maintainable solutions. Throughout the development process, I make architectural decisions and anticipate future issues that could affect the system’s evolution.
 
-Currently, I'm embarking on my most ambitious project yet: developing an action roguelike game in Unity alongside my childhood best friend. It's an incredible journey—the idea of building a game from scratch was once just a dream, but there's a first time for everything. This project is the culmination of all my years as an open-source developer, representing countless hours of learning, discipline, focus, and resilience.
+My programming journey started with [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer, a multiplayer mod for GTA San Andreas), where I learned Pawn with the goal of creating my own game mode. That experience helped me build discipline, strengthen my technical foundations, and grow as a software engineering professional.
+
+I’m currently working on my most ambitious project: an action roguelike game in Unity alongside my childhood best friend. Building a commercial game from scratch has been the culmination of years of learning through [open-source](https://opensource.org/definition-annotated), and it represents countless hours of practice, focus, and resilience.
+
+**Stack / interests:** C#, .NET, software architecture, ASP.NET Core Web API, product development, and game development.
 
 ## My open source projects
+
+### Game Modes
+- [Capture The Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp). (~10 peak concurrent players)
+- [Protect The President](https://github.com/DevD4v3/Protect-The-President) - A game mode for [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer) where the President must survive for 15 minutes while being hunted by other players. (15+ peak concurrent players daily)
+  
+### Web Apps
 - [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
-- [Capture The Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp).
-- [Protect The President](https://github.com/DevD4v3/Protect-The-President) - A game mode for SA-MP (San Andreas Multiplayer) where the President must survive for 15 minutes without being assassinated by terrorists or civilians.
 - [Playtesters.API](https://github.com/DevD4v3/Playtesters.API) - A lightweight and secure REST API that helps indie developers manage playtesters and control access to private builds using unique keys.
-- [DotEnv.Core](https://github.com/DevD4v3/dotenv.core) - A class library for read and parsing .env files.
+
+### Libraries
+
+- [DotEnv.Core](https://github.com/DevD4v3/dotenv.core) - A class library for read and parsing .env files. It has over 550K downloads on NuGet, validating its adoption and usefulness within the community.
 - [YeSQL.NET](https://github.com/ose-net/yesql.net) - A class library for loading SQL statements from .sql files instead of writing SQL code in your C# source files.
 - [SimpleResults](https://github.com/DevD4v3/SimpleResults) - A .NET library that provides new error handling using the [Result pattern](https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c) without using exceptions.
 - [CPlugin.Net](https://github.com/DevD4v3/CPlugin.Net) - A simple library that allows to implement a plugin-based architecture for .NET.
@@ -24,16 +35,11 @@ Currently, I'm embarking on my most ambitious project yet: developing an action 
 - [system-jail-include](https://github.com/DevD4v3/system-jail-include) - A library for SA-MP (San Andreas Multiplayer) that provides an easy-to-use jail system that automatically handles player positions, interiors, and weapons.
 - [P-Scanf](https://github.com/DevD4v3/P-Scanf) - A lightweight C library for safe and dynamic user input.
 
-<p align="left"> 
-  I like to know the why of things and I learned this from:
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-</p>
+## Fun facts / inspirations
+I like to understand the **why** behind things — and I learned that from **C**.  
+Thank you **Dennis Ritchie** for this great language 😍
 
-Thank you [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
-
-[Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
+> [Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
