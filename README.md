@@ -45,4 +45,4 @@ Thank you **Dennis Ritchie** for this great language 😍
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DevD4v3&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DevD4v3&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
