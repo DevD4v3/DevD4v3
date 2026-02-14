@@ -14,6 +14,18 @@ I’m currently working on my most ambitious project: an action roguelike game i
 
 **Stack / interests:** C#, .NET, software architecture, ASP.NET Core Web API, product development, and game development.
 
+## My first commercial game
+
+After years of modding and open source development, I began building my first commercial game with a friend.
+
+I’ve worked as both programmer and software architect, designing core systems such as procedural dungeon generation, AI systems, and overall game architecture.
+
+This is my most ambitious project so far:
+- 1800+ commits
+- 52 private releases
+- 600+ issues closed
+- PC and mobile with shared codebase
+
 ## My open source projects
 
 ### Game Modes
