@@ -24,7 +24,7 @@ This is my most ambitious project so far:
 - 1800+ commits
 - 52 private releases
 - 600+ issues closed
-- PC and mobile with shared codebase
+- Cross-platform architecture with a shared codebase for PC and mobile
 
 ## My open source projects
 
