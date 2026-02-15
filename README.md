@@ -54,7 +54,7 @@ Thank you **Dennis Ritchie** for this great language 😍
 > [Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Stats](https://github-readme-stats-six-seven.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://dev-d4v3-github-io.vercel.app/api?username=DevD4v3&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevD4v3&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DevD4v3&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![MostUsedLanguages](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=DevD4v3&layout=compact&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![MostUsedLanguages](https://dev-d4v3-github-io.vercel.app/api/top-langs/?username=DevD4v3&layout=compact&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
