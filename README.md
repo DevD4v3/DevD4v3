@@ -21,9 +21,9 @@ After years of modding and open source development, I began building my first co
 I’ve worked as both programmer and software architect, designing core systems such as procedural dungeon generation, AI systems, and overall game architecture.
 
 This is my most ambitious project so far:
-- 1800+ commits
-- 52 private releases
-- 600+ issues closed
+- 1900+ commits
+- 55 private releases
+- 640+ issues closed
 - Cross-platform architecture with a shared codebase for PC and mobile
 
 ## My open source projects
