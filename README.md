@@ -22,9 +22,14 @@ I’ve worked as both programmer and software architect, designing core systems 
 
 This is my most ambitious project so far:
 - 1900+ commits
-- 55 private releases
+- 60 private releases
 - 640+ issues closed
 - Cross-platform architecture with a shared codebase for PC and mobile
+
+### Available Now
+
+- 🎮 Wishlist on Steam: [For the Glory of Wilson](https://store.steampowered.com/app/4306240/For_the_Glory_of_Wilson)
+- 📱 Available on Google Play: [For the Glory of Wilson Mobile](https://play.google.com/store/apps/details?id=com.zuridav.gloryofwilson)
 
 ## My open source projects
 
