@@ -34,8 +34,8 @@ This is my most ambitious project so far:
 ## My open source projects
 
 ### Game Modes
-- [Capture The Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp). (~10 peak concurrent players)
-- [Protect The President](https://github.com/DevD4v3/Protect-The-President) - A game mode for [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer) where the President must survive for 15 minutes while being hunted by other players. (15+ peak concurrent players daily)
+- [Capture the Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp). (~10 peak concurrent players)
+- [Protect the President](https://github.com/DevD4v3/Protect-The-President) - A game mode for [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer) where the President must survive for 15 minutes while being hunted by other players. (15+ peak concurrent players daily)
   
 ### Web Apps
 - [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
