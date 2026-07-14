@@ -34,8 +34,8 @@ This is my most ambitious project so far:
 ## My open source projects
 
 ### Game Modes
-- [Capture the Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer) created with .NET/C# and [SampSharp](https://github.com/ikkentim/SampSharp). (~10 peak concurrent players)
-- [Protect the President](https://github.com/DevD4v3/Protect-The-President) - A game mode for [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer) where the President must survive for 15 minutes while being hunted by other players. (15+ peak concurrent players daily)
+- [Capture the Flag](https://github.com/DevD4v3/Capture-The-Flag) - A game mode for [open.mp](https://github.com/openmultiplayer) (Open Multiplayer, a multiplayer mod for GTA San Andreas) built with C# and [SampSharp](https://github.com/ikkentim/SampSharp).
+- [Protect the President](https://github.com/DevD4v3/Protect-The-President) - A game mode for [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer, a multiplayer mod for GTA San Andreas) where the President must survive for 15 minutes while being hunted by other players.
   
 ### Web Apps
 - [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
@@ -43,7 +43,7 @@ This is my most ambitious project so far:
 
 ### Libraries
 
-- [DotEnv.Core](https://github.com/DevD4v3/dotenv.core) - A class library for read and parsing .env files. It has over 550K downloads on NuGet, validating its adoption and usefulness within the community.
+- [DotEnv.Core](https://github.com/DevD4v3/dotenv.core) - A class library for read and parsing .env files. It has over 600K downloads on NuGet, validating its adoption and usefulness within the community.
 - [YeSQL.NET](https://github.com/ose-net/yesql.net) - A class library for loading SQL statements from .sql files instead of writing SQL code in your C# source files.
 - [SimpleResults](https://github.com/DevD4v3/SimpleResults) - A .NET library that provides new error handling using the [Result pattern](https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c) without using exceptions.
 - [CPlugin.Net](https://github.com/DevD4v3/CPlugin.Net) - A simple library that allows to implement a plugin-based architecture for .NET.
