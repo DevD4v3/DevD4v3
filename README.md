@@ -47,10 +47,8 @@ This is my most ambitious project so far:
 - [YeSQL.NET](https://github.com/ose-net/yesql.net) - A class library for loading SQL statements from .sql files instead of writing SQL code in your C# source files.
 - [SimpleResults](https://github.com/DevD4v3/SimpleResults) - A .NET library that provides new error handling using the [Result pattern](https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c) without using exceptions.
 - [CPlugin.Net](https://github.com/DevD4v3/CPlugin.Net) - A simple library that allows to implement a plugin-based architecture for .NET.
-- [Seztion.Parser](https://github.com/DevD4v3/seztion-parser) - A class library used to read data from each section of a file (the file extension can be any, e.g. .INI).
-- [AntiLag-Inc](https://github.com/DevD4v3/antilag-inc) - A library for SA-MP (San Andreas Multiplayer) that allows you to create zones where players can be shot directly on their skin.
-- [system-jail-include](https://github.com/DevD4v3/system-jail-include) - A library for SA-MP (San Andreas Multiplayer) that provides an easy-to-use jail system that automatically handles player positions, interiors, and weapons.
-- [P-Scanf](https://github.com/DevD4v3/P-Scanf) - A lightweight C library for safe and dynamic user input.
+- [Seztion.Parser](https://github.com/DevD4v3/seztion-parser) - A lightweight .NET library for reading section-based configuration files, such as .ini files.
+- [SampSharp.MapObjects](https://github.com/DevD4v3/SampSharp.MapObjects) - A .NET library for [SampSharp](https://github.com/ikkentim/SampSharp) that implements object maps as regular C# classes instead of Pawn filterscripts.
 
 ## Fun facts / inspirations
 I like to understand the **why** behind things — and I learned that from **C**.  
